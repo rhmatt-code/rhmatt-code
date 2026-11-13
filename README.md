@@ -55,19 +55,6 @@ Halo! Saya **Rahmat Abdullah**, seorang **Full-Stack Web & Mobile Developer** ya
 
 ---
 
-### 🚀 Featured Projects
-
-Berikut adalah beberapa proyek pilihan yang pernah dan sedang saya kerjakan:
-
-| Proyek | Deskripsi | Tech Stack |
-| :--- | :--- | :--- |
-| **[Nama Proyek 1]** | Sistem manajemen / portal informasi berbasis web dengan performa tinggi dan UI responsif. | `Laravel` `Livewire` `Tailwind CSS` `MySQL` |
-| **[Nama Proyek 2]** | Aplikasi kasir (POS) dan manajemen inventaris untuk membantu operasional bisnis harian. | `Flutter` `Go` `PostgreSQL` |
-| **[Nama Proyek 3]** | Sistem billing dan manajemen jaringan otomatis untuk penyedia layanan internet. | `Laravel` `REST API` `Linux` |
-
-*(Ganti nama proyek dan link di atas dengan repository terbaikmu!)*
-
----
 
 ### 📊 GitHub Analytics
 
